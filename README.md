@@ -1,4 +1,4 @@
 # EU
 
--> Amante de filosofia e programação
+-> Amante de filosofia e programação;
 -> Fã de C e c++

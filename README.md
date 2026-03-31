@@ -2,11 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-👋 Olá! Bem-vindo ao meu mundo.
-
-Este perfil é onde registro minha evolução, compartilho projetos e coloco em prática tudo que venho aprendendo ao longo do tempo.
-
-⚡ O importante é não parar.
+♾️ Infinity ♾️
 
 <p align="left">
     </a>
@@ -109,7 +105,7 @@ Este perfil é onde registro minha evolução, compartilho projetos e coloco em 
 
 ```bash
 
-prodzz@localhost:~$
+prodrigueszz@localhost:~$
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▐▓█▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░░
 ░█░░░█▀█░█▀█░█▀▄░█░█▄░█░█▀▀░░░░░░░░▐▓█░░░░░░░░█▓▌░█▄▄▄█░░

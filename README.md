@@ -4,31 +4,6 @@
 
 ♾️ Infinity ♾️
 
-<p align="left">
-    </a>
-    <a href="https://www.linkedin.com/in/tiagodepaivarodrigues/">
-    <img 
-        alt="LinkedIn" 
-        title="Conecte-se comigo no LinkedIn" 
-        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-    </a> 
-    <a href="https://github.com/prodrigueszz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/prodrigueszz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/prodrigueszz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/prodrigueszz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🔋 Linguagens e Tecnologias
@@ -113,4 +88,10 @@ prodrigueszz@localhost:~$
 ░▀▀▀░▀▀▀░▀░▀░▀▀░░▀░▀░░▀░▀▀▀░░▀░▀░▀░▐▓█▄▄▄▄▄▄▄▄█▓▌░█████░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄██▄▄░░░░░█████░░ 
 
+```
 
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)

@@ -92,4 +92,4 @@ prodrigueszz@localhost:~$
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-tiago.paivarodrigue1@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.paivarodrigues1@gmail.com)](mailto:tiago.paivarodrigues1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tiago.paivarodrigues1@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.paivarodrigues1@gmail.com)](mailto:tiago.paivarodrigues1@gmail.com)

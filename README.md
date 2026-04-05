@@ -92,6 +92,4 @@ prodrigueszz@localhost:~$
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Tiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/tiagodepaivarodrigues/)](https://www.linkedin.com/in/tiagodepaivarodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/-tiago.paivarodrigue1@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.paivarodrigues1@gmail.com)](mailto:tiago.paivarodrigues1@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/prodrigueszz)
